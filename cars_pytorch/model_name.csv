@@ -1,0 +1,781 @@
+model_name,count
+F-150,14798
+Equinox,9795
+Escape,9764
+Grand Cherokee,9522
+CR-V,9050
+Rogue,8192
+Silverado 1500,8117
+Explorer,7976
+Fusion,7028
+RAV4,6775
+Accord,6270
+Civic,5890
+Camry,5808
+Trax,5561
+Compass,5153
+Altima,5092
+Edge,4885
+Highlander,4792
+Cherokee,4638
+Tucson,4309
+Corolla,4300
+Forester,4292
+Outback,3926
+Elantra,3734
+Traverse,3717
+Terrain,3674
+Malibu,3672
+Wrangler Unlimited,3669
+CX-5,3629
+Sentra,3485
+Jetta,3467
+Pilot,3362
+Sonata,3344
+Sportage,3168
+HR-V,3049
+Sierra 1500,3009
+Acadia,2955
+EcoSport,2953
+3 Series,2681
+Crosstrek,2636
+Impreza,2620
+MDX,2499
+Odyssey,2480
+Murano,2455
+Tiguan,2387
+Encore,2367
+C-Class,2346
+Sorento,2228
+Renegade,2152
+Encore GX,2139
+Durango,2124
+Tahoe,2113
+Tacoma,2105
+Envision,2070
+Transit Connect,2069
+Grand Caravan,2067
+Cruze,2044
+Rogue Sport,2044
+X3,2032
+Pacifica,1984
+Passat,1905
+5 Series,1865
+Ranger,1831
+Forte,1772
+XT5,1762
+Colorado,1760
+Expedition,1747
+X5,1735
+F-250 Super Duty,1726
+E-Class,1725
+Mustang,1715
+MKZ,1707
+Soul,1692
+Focus,1685
+Blazer,1669
+Kona,1668
+Pathfinder,1666
+F-350 Super Duty,1635
+Transit Cargo,1629
+RDX,1629
+Sienna,1597
+Fit,1564
+QX60,1553
+Legacy,1552
+Enclave,1551
+Q5,1531
+MAZDA3,1517
+XC60,1511
+Fusion Hybrid,1495
+Optima,1464
+Santa Fe,1463
+Journey,1367
+Charger,1351
+XC90,1350
+Maxima,1314
+Impala,1249
+GLC-Class,1185
+TLX,1179
+Prius,1171
+RX 350,1137
+Highlander Hybrid,1131
+Suburban,1127
+Corsair,1127
+Atlas,1116
+S60,1084
+Challenger,1082
+GLA-Class,1062
+RX,1050
+Gladiator,1048
+Silverado 2500HD,1035
+A4,1015
+4Runner,1014
+Q50,1007
+Outlander Sport,1005
+Versa,987
+GLE-Class,969
+Tundra,964
+Camaro,937
+RAV4 Hybrid,922
+X1,918
+Yukon,893
+Camry Hybrid,882
+Patriot,844
+Q7,844
+300,834
+A6,818
+Escalade,800
+Cooper,799
+Discovery Sport,797
+K5,788
+Wrangler,783
+Bolt EV,781
+Passport,779
+Sprinter,778
+Prius Prime,760
+S-Class,759
+Santa Fe Sport,758
+ES 350,754
+Nautilus,741
+XT6,740
+Spark,734
+ProMaster,724
+CX-9,704
+MAZDA6,701
+Ascent,700
+Town & Country,690
+Atlas Cross Sport,686
+Outlander,686
+Transit Passenger,675
+Express Cargo,670
+Kicks,659
+Q3,640
+C-HR,627
+MKC,615
+Trailblazer,614
+Sedona,613
+Civic Hatchback,606
+Sierra 2500HD,602
+XT4,599
+Taurus,594
+GLB-Class,589
+4 Series,588
+Countryman,586
+MKX,580
+Corvette,579
+Stelvio,569
+Cayenne,565
+ILX,562
+Frontier,560
+A3,559
+GLS-Class,557
+Accent,555
+Avalon,554
+Giulia,544
+Macan,536
+Civic Coupe,535
+Range Rover Sport,534
+Navigator,534
+QX50,532
+CT5,531
+Ridgeline,526
+Fusion Energi,519
+Aviator,516
+F-550 Super Duty Chassis,513
+F-PACE,513
+200,504
+Accord Hybrid,498
+Liberty,497
+ES,496
+Yukon XL,493
+XC40,489
+Escape Hybrid,487
+CLA-Class,486
+Range Rover Evoque,486
+Canyon,474
+Eclipse Cross,473
+Seltos,473
+CTS,473
+GTI,472
+Flex,463
+7 Series,461
+Titan,459
+Escalade ESV,454
+Fiesta,451
+911,443
+Palisade,439
+F-350 Super Duty Chassis,436
+Mirage G4,436
+Continental,434
+LaCrosse,427
+ProMaster City,425
+Sonic,424
+Express,410
+Range Rover,410
+E-Series,403
+IS,400
+Insight,400
+Venue,399
+Telluride,394
+Niro,389
+NX 200t,389
+2 Series,387
+WRX,383
+CR-V Hybrid,382
+LEAF,376
+GX,376
+CX-30,373
+Range Rover Velar,364
+CX-3,355
+Mirage,345
+Ghibli,334
+SRX,334
+X2,329
+Savana Cargo,325
+Metris Cargo,324
+V60,323
+QX80,318
+Rio,317
+Yaris,293
+XV Crosstrek,292
+Elantra GT,291
+NX,290
+Golf,278
+CT4,275
+GS 350,269
+A-Class,266
+Ioniq Hybrid,264
+Corolla Hybrid,264
+S90,262
+SL-Class,262
+Levante,260
+Discovery,259
+Accord Coupe,255
+M-Class,254
+RX Hybrid,252
+Regal,249
+Golf Alltrack,248
+Silverado 3500HD,247
+Dart,246
+MKZ Hybrid,243
+Sequoia,242
+Cooper Clubman,242
+Venza,240
+Verano,238
+Panamera,235
+X7,235
+RAM 1500,234
+X6,233
+NV200,232
+G70,229
+ES Hybrid,224
+Avalon Hybrid,221
+Corolla Hatchback,220
+Sonata Hybrid,219
+QX30,218
+CT6,214
+NV Cargo,210
+Sierra 3500HD,210
+XE,210
+A8,209
+Voyager,208
+F-450 Super Duty,207
+GL-Class,206
+Volt,204
+Beetle,204
+A5,198
+X4,191
+E-PACE,191
+Q60,189
+Veloster,189
+G80,187
+Juke,186
+A5 Sportback,184
+Supra,182
+G37,180
+Q8,178
+Pacifica Hybrid,178
+Range Rover Hybrid,173
+IS 250,172
+Kona Electric,172
+Arteon,171
+UX Hybrid,168
+CLS-Class,161
+6 Series,160
+S4,159
+SQ5,154
+MKT,153
+Golf SportWagen,152
+Avenger,148
+C-Max Energi,145
+Niro EV,144
+WRX STI,143
+Savana,136
+Sprinter Cargo,135
+Versa Note,133
+RAM 2500,133
+GLK-Class,133
+Dakota,130
+XF,126
+Avalanche,126
+Cruze Limited,126
+Xterra,123
+A7,123
+MX-5 Miata,123
+C-Max Hybrid,122
+XC70,121
+i3,121
+8 Series,119
+Jetta GLI,118
+Defender,118
+F-TYPE,118
+500,116
+G-Class,114
+M4,113
+Yaris iA,112
+Silverado 3500HD Chassis,111
+Cobalt,111
+Jetta SportWagen,110
+Transit Chassis,109
+Quattroporte,108
+Taycan,107
+Cadenza,106
+A4 Allroad,106
+e-tron,103
+Prius v,103
+Genesis,103
+G6,101
+Matrix,101
+Model S,101
+S6,100
+Niro Hybrid Plug-In,98
+Crosstrek Hybrid,97
+S5,97
+Sebring,96
+Ioniq Electric,95
+V90,95
+Rogue Select,94
+FJ Cruiser,94
+M8,93
+X5 M,92
+Mustang Shelby GT350,91
+Lucerne,91
+Forte5,90
+Caliber,90
+Touareg,89
+Quest,89
+M3,88
+LS,87
+LS 460,87
+Metris,85
+SLC-Class,83
+M5,82
+Rio5,82
+S3,81
+MAZDA5,80
+CT Hybrid,77
+Impreza WRX,77
+Prius c,77
+I-PACE,76
+Transit Crew,76
+Model 3,76
+ES 300h,75
+E-Series Chassis,75
+X3 M,75
+3 Series Gran Turismo,74
+Envoy,74
+Thunderbird,74
+PT Cruiser,73
+Town Car,72
+Impala Limited,71
+NX Hybrid,71
+AMG GT,70
+Lancer,69
+GranTurismo,69
+Element,68
+Ioniq Hybrid Plug-In ,68
+VUE,68
+S-Class Coupe,67
+Nitro,66
+Mustang Shelby GT500,65
+Corolla iM,64
+Grand Marquis,64
+S5 Sportback,64
+Vibe,63
+QX70,63
+CX-7,63
+R8,62
+QX56,62
+Commander,62
+H3,61
+Outlander Hybrid Plug-in ,61
+Land Cruiser,59
+Explorer Sport Trac,59
+G90,58
+G35,56
+FX35,55
+S80,54
+Captiva Sport,53
+Veloster Turbo,53
+Crosstour,52
+xB,52
+SQ7,52
+Express Chassis,52
+Mariner,51
+ATS Coupe,51
+Boxster,51
+LX 570,50
+Camry Solara,50
+Sierra 3500HD Chassis,49
+Aveo,49
+Sonata Hybrid Plug-In ,48
+Altima Coupe,48
+LR4,47
+Explorer Hybrid,47
+X6 M,46
+F-550 Super Duty,46
+Civic Hybrid,46
+JX35,46
+Mountaineer,46
+RLX,45
+Optima Hybrid,44
+Q5 Hybrid Plug-in,44
+H2,44
+S7,44
+M6,43
+Milan,43
+Azera,43
+SX4,42
+IS 350,42
+Malibu Hybrid,42
+Grand Prix,42
+RX 330,41
+fortwo,41
+Continental GT,41
+GX 470,41
+xD,40
+NV Passenger,40
+Cayenne E-Hybrid,40
+Q70,39
+Soul EV,38
+EX35,38
+1 Series,37
+MDX Hybrid Sport,37
+Golf R,37
+Q70L,37
+Firebird,37
+ION,37
+RC,37
+Tribeca,36
+S40,36
+Clarity Hybrid Plug-In ,36
+DeVille,35
+Continental GTC,35
+Elantra Touring,35
+5 Series Gran Turismo,35
+ES 300,34
+Tribute,34
+Forte Koup,34
+S8,33
+Vantage,33
+M37,33
+Civic Type R,32
+CLK-Class,32
+LeSabre,32
+LR2,32
+LS 500,32
+Routan,32
+CTS Coupe,31
+Veracruz,31
+M2,30
+Genesis Coupe,30
+Galant,30
+A6 Allroad,30
+SLK-Class,30
+Model X,29
+RAM 3500,28
+Impreza WRX STI,28
+Prius Plug-In,28
+GT-R,27
+Crossfire,27
+Sable,27
+RC 300,27
+XK-Series,27
+Cavalier,27
+LX,27
+M35,27
+Cayman,27
+Envoy XL,26
+Monte Carlo,26
+C70,26
+Endeavor,26
+Silverado 3500,25
+FR-S,25
+Rabbit,25
+ES 330,25
+R-Class,25
+Flying Spur,24
+e-Golf,24
+RC 350,24
+Regal Sportback,24
+MAZDA2,24
+Trailblazer EXT,23
+CL-Class,23
+RX 400h,23
+Crown Victoria,23
+Panamera E-Hybrid,23
+B9 Tribeca,23
+Cascada,22
+Century,22
+RL,22
+Eclipse,22
+A4 Avant,22
+Bronco,21
+S-10,21
+Eos,21
+City Express,21
+Veloster N,21
+LS 430,21
+Sierra 1500 Limited,21
+LC,21
+XV Crosstrek Hybrid,21
+Silverado Classic 1500,20
+Freestyle,20
+Escalade EXT,20
+A3 Sportback,20
+Torrent,20
+Spectra,20
+RLX Hybrid Sport,20
+Five Hundred,20
+RC F,19
+Outlook,19
+RS 3,19
+Regal TourX,19
+X4 M,19
+i8,18
+Rendezvous,18
+Grand Am,18
+Range Rover Hybrid Plug-in,18
+Optima Hybrid Plug-In ,18
+RX 300,18
+Cube,18
+RS 5,18
+A8 Hybrid Plug-In,17
+Uplander,17
+Altima Hybrid,17
+Evora,17
+Dawn,16
+Accord Crosstour,16
+Elantra Coupe,16
+XL-7,16
+Baja,16
+Aspen,16
+Chevelle,16
+Solstice,15
+LX 470,15
+G25,15
+Lancer Evolution,15
+Econoline Wagon,14
+Focus RS,14
+LR3,14
+Rondo,14
+6 Series Gran Turismo,14
+Entourage,14
+UX,14
+Excursion,14
+Viper,13
+S-Series,13
+G8,13
+Continental Flying Spur,13
+Q40,13
+Rogue Hybrid,13
+SC 430,13
+Eldorado,13
+Grand Vitara,13
+H2 SUT,13
+RS 7,13
+X-TYPE,13
+Mark LT,13
+Huracan,12
+Neon,12
+Montego,12
+Cooper Coupe,12
+Allante,12
+F-450 Super Duty Chassis,12
+GS F,12
+Stratus,12
+Windstar,12
+Mustang SVT Cobra,12
+Nova,12
+Gallardo,12
+Revero,11
+Malibu Maxx,11
+Mulsanne,11
+Portofino,11
+Sierra 3500,11
+Q50 Hybrid,11
+Freestar,11
+MAZDASPEED3,11
+Bonneville,11
+Model A,10
+Bronco Sport,10
+California T,10
+GS 300,10
+Prowler,10
+F12 Berlinetta,10
+HS 250h,10
+Silverado Hybrid,9
+ECHO,9
+Fleetwood,9
+L-Series,9
+V70,9
+Countryman Hybrid Plug-in ,9
+Rodeo,9
+RSX,9
+SQ8,8
+K900,8
+Mustang Mach-E,8
+V50,8
+R32,8
+Deluxe,8
+Caprice,8
+Monterey,8
+Caravan,8
+V8 Vantage,8
+Touareg 2,8
+RX-8,8
+G5,8
+RAV4 Prime,8
+ProMaster Chassis,7
+RX-7,7
+Yukon Hybrid,7
+Eclipse Spyder,7
+Vanquish,7
+Coupe,7
+Jetta Hybrid,7
+Tracker,7
+Sonoma,7
+S-TYPE,7
+Riviera,7
+F430 Spider,7
+F-250,7
+Rainier,7
+Spider,6
+RS 5 Sportback,6
+Sierra 2500,6
+California,6
+Sierra Classic 1500,6
+Focus Electric,6
+Jimmy,6
+Silverado Classic 2500HD,6
+Revero GT,6
+RS Q8,6
+FX37,6
+Cooper Paceman,6
+Sierra 2500HD Classic,5
+Model T,5
+Venture,5
+Roadster,5
+RAM Van,5
+Silver Spur,5
+F-150 Heritage,5
+Sunfire,5
+Continental Supersports,5
+QX4,5
+B-Series,4
+Marauder,4
+Montana SV6,4
+QX60 Hybrid,4
+Seville,4
+Cabrio,4
+B-Class,4
+SLS-Class,4
+Concorde,4
+F-350,4
+Escalade Hybrid,4
+CTS-V Wagon,4
+Forenza,4
+Murano CrossCabriolet,4
+Mariner Hybrid,4
+Delta 88,4
+GranSport,4
+Electra,4
+Ranger Chassis,4
+Silverado Classic 3500,3
+Cutlass,3
+Lancer Sportback,3
+Silverado 2500,3
+Fiero,3
+L300,3
+Safari Cargo,3
+Legend,3
+Econoline Cargo,3
+Valiant,3
+Ranchero,3
+RS 6,3
+Testarossa,3
+Silverado 1500HD,3
+Montero Sport,3
+Cayenne Hybrid,3
+F-150 SVT Lightning,3
+Q5 Hybrid,3
+Montana,3
+Fairlane,3
+ILX Hybrid,3
+Discovery Series II,3
+F-100,3
+RAM 150,2
+Vista Cruiser,2
+i-Series,2
+Pathfinder Hybrid,2
+Super Beetle,2
+Fury,2
+Sephia,2
+S70,2
+CTS Sport Wagon,2
+Mark VIII,2
+Capri,2
+Grand Ville,2
+LX 450,2
+Sierra 1500HD,2
+RAM 3500 Chassis ,2
+Mark VII,2
+fortwo electric drive,2
+RAM 4500 Chassis ,2
+F355,2
+Touareg Hybrid,2
+Crossfire SRT-6,2
+Lumina,2
+Q45,2
+Mark VI,2
+MAZDASPEED6,2
+Milan Hybrid,2
+Catalina,2
+Sierra 1500 Hybrid,2
+ActiveHybrid 7,1
+Mark IX,1
+M35h,1
+Silvia,1
+Explorer Sport,1
+M30,1
+RAM Wagon,1
+V40,1
+LS Hybrid,1
+M56,1
+V12 Vantage,1
+Silver Seraph,1
+Super Bee,1
+RAM 250,1
+Spitfire,1
+Hummer,1
+Falcon,1
+Sprinter Passenger,1
+Grand Voyager,1
+S60 R,1
+F430,1
+Super Deluxe,1
+Gran Sport,1
+Custom Cruiser,1
+RAM 350,1
+F-450,1
