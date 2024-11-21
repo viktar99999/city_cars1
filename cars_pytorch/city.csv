@@ -1,0 +1,1211 @@
+city,count
+Manchester,3981
+Norwood,3889
+Brooklyn,3482
+Highland,3368
+Philadelphia,3333
+Baltimore,3211
+Alexandria,3023
+Merrillville,2857
+Lafayette,2784
+Milford,2771
+Silver Spring,2714
+Albany,2280
+Edison,2228
+Nashua,2220
+Conshohocken,2192
+Southfield,2106
+Raynham,2079
+Plymouth,2045
+Auburn,2023
+Danvers,2011
+Paramus,2001
+Hartford,1980
+Staten Island,1956
+Stamford,1947
+Newark,1881
+Portsmouth,1878
+Washington,1844
+Concord,1843
+Rockville,1838
+Clinton Township,1812
+Lowell,1809
+Watertown,1740
+Schenectady,1711
+Lancaster,1691
+Lansing,1677
+Burlington,1648
+Freehold,1642
+Latham,1639
+Hanover,1637
+Danbury,1623
+Westborough,1619
+Annapolis,1608
+Dover,1605
+Saco,1591
+Egg Harbor Township,1590
+West Springfield,1588
+Braintree,1573
+Falls Church,1547
+Kalamazoo,1528
+Ramsey,1501
+Shrewsbury,1487
+Waterbury,1474
+Bronx,1467
+Novi,1452
+Somerville,1438
+Saint James,1428
+Matteson,1419
+Springfield,1408
+Cherry Hill,1407
+Toms River,1389
+Owings Mills,1384
+Yonkers,1380
+Rochester Hills,1373
+Brockton,1369
+Long Island City,1353
+Framingham,1346
+Glen Burnie,1336
+Arlington,1335
+East Providence,1320
+Great Neck,1317
+Allentown,1311
+Eatontown,1304
+New Castle,1298
+Bowie,1295
+Johnston,1294
+East Hartford,1271
+Gaithersburg,1255
+Detroit,1251
+Richmond,1241
+Middletown,1235
+New Rochelle,1235
+Mendon,1201
+Huntington,1195
+Branford,1177
+Fenton,1176
+Old Bridge,1175
+Harrisburg,1170
+Lynnfield,1162
+Redford,1161
+Jersey City,1161
+Valparaiso,1158
+Englewood,1156
+Little Falls,1144
+Clarksville,1144
+Huntington Station,1121
+Flint,1119
+Bay Shore,1104
+Riverhead,1103
+South Burlington,1101
+Wallingford,1097
+Haverhill,1095
+Warwick,1085
+White Plains,1081
+Hyannis,1064
+Maple Shade,1055
+Fort Wayne,1043
+Valley Stream,1038
+Warren,1038
+Battle Creek,1035
+Frankfort,1024
+Berlin,1022
+New Hudson,1021
+Laurel,1008
+Grand Ledge,1003
+Torrington,1002
+East Windsor,997
+Natick,991
+Bloomfield Hills,990
+Bridgewater,984
+Elizabeth,981
+New York,979
+Reading,978
+Warsaw,974
+Woburn,972
+Patchogue,972
+North Attleboro,968
+Lake Orion,965
+Naugatuck,963
+Peabody,956
+Rochester,932
+Bethesda,906
+Cranston,906
+Bristol,903
+Queensbury,903
+Warminster,891
+West Chester,886
+Freeport,885
+Paterson,882
+Easton,877
+Boston,876
+Mattoon,875
+Fallston,874
+Norristown,872
+Lakewood,868
+Poughkeepsie,866
+Salem,864
+Waterford,860
+Hackensack,857
+Clifton Park,848
+Medford,845
+Somersworth,842
+Westwood,842
+South Portland,839
+Levittown,836
+Waldorf,834
+Worcester,824
+Howell,819
+Trenton,819
+North Haven,817
+Westminster,817
+Kokomo,814
+Greenwood,806
+Jackson,801
+Hempstead,800
+Champaign,799
+Totowa,797
+Greenvale,785
+Laconia,776
+Brighton,775
+Greenwich,774
+Northampton,769
+Doylestown,768
+Seekonk,767
+Union,767
+Plattsburgh,764
+Fort Washington,757
+Vernon Rockville,756
+Mishawaka,753
+Wood-Ridge,749
+Tilton,749
+Kingston,748
+East Brunswick,748
+Saratoga Springs,748
+Ellicott City,741
+Lebanon,740
+West Nyack,739
+Keene,738
+North Brunswick,731
+Lawrenceville,731
+Plainwell,731
+Bourbonnais,728
+North Kingstown,724
+Temple Hills,721
+Royal Oak,717
+Enfield,715
+Farmington Hills,715
+Gorham,713
+Lynn,713
+Hooksett,707
+Exeter,702
+Nottingham,699
+Wall Township,687
+Marlborough,685
+Elkhart,685
+Bayside,683
+Roslyn,674
+Grand Rapids,673
+Mechanicsburg,661
+Summit,651
+Mount Kisco,646
+York,643
+Augusta,639
+Towson,639
+Acton,638
+Westport,634
+Salisbury,633
+Monticello,627
+Smithtown,625
+West Warwick,624
+Avenel,624
+Terre Haute,624
+White Marsh,621
+Souderton,621
+Rockville Centre,619
+South Bend,616
+Flemington,614
+Newport,614
+Columbia,611
+Wakefield,610
+Pittsfield,609
+Vineland,605
+Stratham,605
+Glen Cove,599
+Princeton,591
+Suitland,589
+Cheshire,585
+Waterville,583
+Keyport,581
+Brunswick,579
+Franklin,579
+Westbrook,578
+Sewell,574
+Brick,573
+Bel Air,573
+Monmouth Junction,571
+North Dartmouth,569
+Fall River,568
+Wheaton,566
+Oak Park,564
+Hudson,564
+Woodbridge,563
+Devon,558
+Bourne,555
+Westbury,554
+Wilmington,553
+Westland,552
+Red Bank,551
+Michigan City,549
+Center Line,544
+Agawam,543
+Montgomeryville,542
+Marion,542
+Attleboro,537
+Randolph,532
+Littleton,527
+Glen Mills,527
+Catonsville,526
+Bennington,525
+Lodi,525
+Newton,523
+Jenkintown,522
+Sterling Heights,519
+Colmar,519
+Williamstown,510
+Watchung,506
+South Easton,506
+Saint Johnsbury,506
+Sicklerville,504
+Bethlehem,503
+Jackson Heights,500
+Ephrata,493
+Burlington Township,491
+Swansea,490
+White River Junction,488
+East Greenwich,487
+Parsippany,485
+Swanzey,485
+Portage,482
+Neptune,478
+Fair Lawn,472
+West Caldwell,470
+Mt Laurel,468
+Wiscasset,467
+Bangor,462
+Tarrytown,462
+Maumee,459
+Canton,459
+Plainville,458
+West Roxbury,457
+Jamaica,455
+Exton,453
+Georgetown,446
+Bridgeport,446
+Everett,443
+Toledo,441
+Whitman,438
+Southampton,437
+Muncie,436
+Parkville,435
+Abington,433
+Dorchester,432
+Nanuet,430
+Linden,430
+Ft Wayne,428
+Lynbrook,428
+Wilkes Barre,426
+Roseville,425
+Feasterville Trevose,423
+Quakertown,422
+Delran,421
+Pasadena,421
+Indianapolis,420
+Davison,419
+Hasbrouck Heights,418
+Rahway,418
+Lexington Park,412
+Brazil,412
+Cockeysville,411
+Horsham,410
+Manahawkin,410
+Putnam,409
+Lapeer,405
+Chicago,404
+Amityville,404
+Avon,400
+Rochelle Park,397
+Chicopee,397
+Merrimack,396
+Thomaston,395
+Demotte,394
+Simsbury,394
+Westfield,393
+Rutland,392
+Peotone,392
+Feasterville-Trevose,392
+Winthrop,391
+Barre,391
+Little Ferry,390
+Hillside,389
+Macomb,388
+Ypsilanti,387
+Brattleboro,387
+Londonderry,384
+West Islip,383
+Mount Laurel,382
+Ansonia,382
+Tewksbury,380
+Farmingdale,379
+Sussex,379
+Old Saybrook,377
+Woodside,377
+Marlow Heights,375
+Germantown,372
+Stratford,372
+Middlebury,372
+Lawrence Township,371
+Dillsburg,369
+Taylor,368
+Logansport,367
+Meriden,366
+Delaware,365
+Sylvania,363
+Portland,362
+Leominster,361
+Willow Grove,360
+Seaford,360
+Holyoke,359
+Bedford,357
+Holly,356
+Kenvil,355
+Bohemia,355
+Adrian,352
+Rhinebeck,349
+New Britain,349
+Epsom,347
+Sudbury,346
+Dayton,346
+Smithfield,345
+Walled Lake,345
+Sykesville,343
+Plaistow,340
+West Simsbury,340
+East Haven,339
+Hingham,338
+Methuen,337
+Fairless Hills,336
+Imlay City,336
+Lewes,336
+New Bedford,331
+Oakhurst,329
+Farmington,329
+Savoy,328
+Cambridge,326
+New Haven,325
+Riverdale,325
+Port Huron,325
+South Amboy,324
+Blackwood,323
+Malvern,322
+Somerset,321
+Williston,321
+Ann Arbor,320
+Gwynn Oak,319
+Ewing,318
+Middle River,317
+Upper Saddle River,316
+Naperville,315
+St Albans,314
+Irvington,313
+Eastpointe,313
+Norwell,313
+Aberdeen,310
+Newtown Square,309
+Lewis Center,309
+West New York,309
+Potsdam,307
+Scarborough,307
+Syosset,306
+Tinley Park,306
+Lumberton,306
+North Plainfield,305
+Spring Valley,303
+Okemos,302
+Oneonta,298
+Dearborn,298
+Derry,298
+Hazlet,295
+Cranbury,293
+Hampstead,291
+Foxboro,291
+Pleasantville,289
+Carlisle,288
+Langhorne,288
+Muncy,287
+Verona,287
+Scotia,286
+Norwalk,286
+Schererville,285
+East Hanover,283
+Morristown,282
+Greenfield,282
+Brewster,282
+South Holland,281
+Posen,281
+Budd Lake,281
+Grand Blanc,281
+Fitchburg,280
+La Porte,280
+Clifton,279
+Woonsocket,278
+Catskill,278
+Monroe,277
+Dartmouth,276
+Walpole,276
+Elk Grove Village,276
+Flushing,275
+Ledgewood,275
+Malden,275
+Saint Albans,274
+Claremont,271
+South River,269
+Taunton,269
+Mahwah,268
+Emmaus,268
+Caledonia,266
+West Bridgewater,264
+Colonia,263
+Inwood,262
+Calumet City,262
+Wilton,261
+New Carrollton,261
+Rockland,261
+East Greenbush,259
+Cape May Court House,259
+Westford,257
+South Hackensack,255
+Stoneham,255
+Pawling,254
+St James,251
+Asbury Park,250
+Homewood,249
+Findlay,249
+Beverly,249
+Lutherville,248
+Chelmsford,248
+Wellesley Hills,247
+Forest Hills,247
+Darien,246
+Auburn Hills,245
+Jericho,245
+Zionsville,245
+Jarrettsville,245
+Fairfield,244
+Coldwater,244
+Miamisburg,244
+China,244
+Dudley,244
+Trevose,243
+Chesterton,243
+Terryville,242
+Hamilton,242
+Gardner,241
+Downingtown,240
+Sharon,240
+Pottstown,239
+West Long Branch,238
+Wayne,238
+Ardmore,238
+South Windsor,237
+Hatfield,235
+Danville,235
+Glastonbury,235
+Paw Paw,233
+Madison,233
+Cobleskill,232
+Roselle,232
+Cortlandt Manor,231
+Thorndale,231
+Wareham,230
+West Babylon,228
+Lincoln,228
+New London,227
+Ellsworth,226
+Richmond Hill,225
+Randallstown,225
+Norwich,224
+Douglaston,224
+North Springfield,223
+South Kingstown,222
+Upper Marlboro,220
+Villa Park,220
+Quarryville,218
+Sellersville,217
+South Haven,217
+Hicksville,216
+Lunenburg,216
+Mechanicville,214
+Arundel,213
+Johnstown,212
+Arlington Heights,211
+Manheim,211
+Hardwick,210
+Fowlerville,210
+Ridgefield,208
+Webster,207
+Decatur,207
+Burns Harbor,207
+Swanton,207
+Maplewood,206
+Falmouth,205
+Shelburne,204
+White Lake,202
+Scarsdale,202
+Cedar Lake,201
+Vicksburg,201
+Smyrna,200
+Warrensburg,200
+Montpelier,200
+Sandusky,199
+Dewitt,199
+Whitestown,199
+Narragansett,199
+Mahopac,199
+Geneva,198
+Lindenhurst,198
+Amsterdam,198
+Goshen,198
+Hawthorne,197
+Bloomsburg,195
+Ontario,194
+Crawfordsville,193
+Millville,192
+Yorktown Heights,192
+Crown Point,191
+Sayville,191
+South Yarmouth,190
+Lutherville Timonium,190
+Ambler,190
+East Rutherford,190
+Edgewood,189
+Delmar,188
+Wappingers Falls,188
+Saint Louis,187
+Tiverton,184
+Willimantic,184
+Lawrence,184
+Clinton,184
+Yarmouth,183
+Glens Falls,183
+Derwood,183
+Comstock,183
+Brookline,182
+South Paris,182
+Monsey,182
+Hodgkins,180
+Edgewater Park,180
+Winchester,180
+Copiague,178
+Watseka,177
+Bow,177
+Bradley,176
+Saint Marys,175
+Elkton,175
+Ozone Park,175
+Lansdale,174
+Robbinsville,174
+Lyme,171
+Southold,171
+Rosedale,170
+Malone,170
+North Franklin,169
+Shelby Township,169
+Fairhaven,168
+Pen Argyl,168
+Green Brook,166
+Niles,166
+Livonia,166
+Bedford Hills,164
+Windsor Locks,164
+Union City,164
+Harriman,163
+Stoughton,163
+Houston,162
+Calais,161
+Herscher,159
+Charlton,159
+Nelliston,159
+Timonium,158
+E Swanzey,158
+Wellesley,158
+Pontiac,155
+Derby,155
+Ellington,155
+Goffstown,154
+Wrightsville,154
+Lincolnwood,154
+South Weymouth,153
+St Clair Shores,153
+Plymouth Meeting,153
+Greencastle,152
+King of Prussia,152
+Belford,151
+Shelbyville,151
+Greenland,150
+Topsham,149
+Lititz,147
+Madison Heights,146
+Sturgis,146
+Hickory Hills,146
+Warrington,145
+Colchester,144
+Ayer,144
+Ravena,144
+Sullivan,144
+Red Hill,143
+Perry,143
+Downers Grove,143
+Elizabethtown,143
+Collegeville,143
+Bluffton,142
+Whitehall,141
+Rensselaer,141
+Cincinnati,140
+Mount Airy,139
+Deptford,139
+Parsippany-Troy Hills,138
+Plainview,138
+Oakland,138
+Caribou,136
+Newburgh,136
+Hyannis Port,136
+Mount Holly,136
+Glenview,135
+Cumberland,135
+Milton,135
+Palatine,134
+Chesterfield,134
+Queens Village,134
+Hazel Crest,134
+New Windsor,133
+Plainfield,133
+Weymouth,133
+North Hampton,131
+East Meadow,131
+Ridgewood,131
+Tinton Falls,130
+Mundelein,130
+Andover,129
+Gloucester,129
+Lexington,128
+Paoli,127
+North Reading,127
+Windsor,127
+Monroeville,126
+Teterboro,126
+Hartsdale,125
+Columbus,125
+Tipton,125
+Pelham,125
+Morgantown,125
+Ligonier,124
+Orangeburg,124
+Landover,124
+West Hartford,124
+Limerick,123
+Wynnewood,123
+Clarkston,122
+Tyngsboro,121
+Saugus,121
+Wayland,121
+Nutley,120
+Shillington,120
+Niantic,119
+Palmer,118
+Croydon,118
+Millerton,118
+Chester Springs,116
+Bernardsville,116
+Gurnee,115
+Morrisville,115
+Southborough,115
+Belmont,115
+Elmhurst,114
+Carlstadt,114
+North Manchester,113
+New Holland,113
+Plantsville,113
+Ludlow,113
+Bloomingdale,113
+Massena,113
+Urbana,111
+Holliston,110
+Boonton,109
+Eastchester,109
+Gloucester City,109
+Port Monmouth,109
+Galesburg,109
+Elmwood Park,109
+Saint Charles,108
+Osceola,108
+Rutherford,108
+Noblesville,108
+Haskell,108
+New Milford,108
+Queens,107
+Marlton,107
+Bridgeview,107
+Ferndale,107
+Delphi,107
+Shelby Charter Twp,106
+Mays Landing,106
+Newtonville,106
+Hadley,106
+Vernon,106
+Newcastle,106
+Waldoboro,106
+Pottsville,106
+Massapequa,105
+Turnersville,105
+Leesport,104
+Tuscola,104
+Charlotte,103
+Marshall,103
+Orleans,103
+Nappanee,102
+Bensalem,102
+Granger,100
+North Chelmsford,99
+Mohegan Lake,99
+Coventry,99
+Dedham,99
+Pennsauken,99
+Glassboro,98
+Clifton Heights,98
+Felton,97
+Phoenixville,97
+Conway,97
+Lanham-Seabrook,96
+Winamac,96
+South Richmond Hill,94
+Colebrook,93
+Franklin Square,93
+Middleboro,92
+Hillsboro,92
+Woodbury,92
+Newington,91
+Michigan Center,91
+Westerly,91
+Stewartsville,91
+Glenmont,90
+Pound Ridge,89
+Ashland,89
+Mansfield,89
+Quincy,87
+Edgewater,86
+Hampton Falls,86
+Upper Darby,85
+Napoleon,84
+Seymour,84
+Berne,84
+Berwick,83
+Litchfield,83
+Barkhamsted,83
+Palmyra,82
+Wabash,82
+South Plainfield,81
+New Brunswick,80
+Saugerties,80
+Millersville,79
+New Hampton,78
+Lisbon,77
+Biddeford,77
+Larchmont,77
+New Carlisle,76
+Corunna,76
+Bergenfield,76
+Bloomfield,75
+Denton,75
+Tillson,75
+Davisburg,75
+Lyons,74
+Hollis,74
+Branchville,72
+St Albans City,72
+Crete,72
+Groton,72
+Stafford Springs,71
+Gibson City,71
+Kentland,71
+San Juan,71
+Hampshire,70
+Barrington,70
+Pompton Plains,70
+Glenolden,70
+Northborough,70
+Lansdowne,70
+Allegan,70
+Pembroke,70
+Hyde Park,69
+Butler,69
+Blauvelt,68
+Midland Park,68
+Meredith,68
+Paxton,67
+Clyde,67
+Port Jefferson Station,67
+Middleton,66
+Miami,66
+Hobart,66
+Hamden,65
+Bridgton,65
+Ortonville,64
+Loudon,64
+East Brookfield,64
+Gas City,64
+Deer Park,63
+Kentwood,63
+Allston,63
+Manchester Center,63
+Lehighton,63
+Cherryville,62
+Saylorsburg,62
+Bala Cynwyd,61
+Denver,60
+Seabrook,60
+Media,60
+Floral Park,59
+Burton,59
+Garfield,59
+Elizabethport,59
+Kensington,59
+Rockaway,57
+Byron Center,57
+Tucson,57
+Fort Montgomery,57
+Topsfield,57
+Voorhees,57
+Sacramento,57
+Dyer,57
+District Heights,57
+Dundalk,57
+Feeding Hills,56
+Croton-On-Hudson,56
+East Barre,56
+San Antonio,55
+Harwood,55
+North Bethesda,55
+Mount Sinai,53
+Roslyn Heights,53
+St Charles,53
+Oxford,53
+Chichester,53
+Birmingham,52
+Mount Pocono,52
+West Sand Lake,52
+Pennsville,52
+Providence,51
+Uxbridge,51
+Swartz Creek,51
+Kenosha,51
+Nashville,51
+Presque Isle,51
+Grand Rapids Charter Township,51
+Monroe Township,51
+Chicago Heights,51
+Perkasie,51
+Memphis,51
+Utica,50
+Hammond,50
+Bellerose,50
+Brentwood,50
+Hilliard,50
+Center Rutland,50
+Dallas,49
+Passaic,49
+Herkimer,49
+Elmont,49
+E Boston,49
+Wrightstown,49
+Magnolia,49
+Wantage,49
+Sheridan,48
+Ladoga,48
+Manalapan,48
+Turner,48
+Myerstown,48
+Kansas City,48
+Bryan,48
+Folsom,48
+Antioch,47
+Waltham,47
+Lake Hopatcong,47
+Ionia,47
+Capitol Heights,47
+Epping,47
+Lewiston,46
+Carmel,46
+Buena,46
+Aurora,46
+Jonestown,46
+Elkridge,46
+Revere,45
+Reisterstown,45
+Wilbraham,45
+San Jose,45
+Hampton,44
+Akron,44
+Minneapolis,42
+Santa Fe Springs,42
+Whitinsville,42
+Maynard,42
+Hampden,42
+Orlando,42
+Las Vegas,42
+Harvey,42
+Penndel,42
+Marietta,42
+Colon,41
+Pipersville,41
+Sheldon,41
+Brook,41
+Medway,41
+Nyack,41
+Brewer,41
+Parlin,41
+East Granby,41
+Goldens Bridge,40
+Gettysburg,40
+Essex,40
+Central Islip,40
+Frisco,40
+Boonville,40
+Bayonne,39
+Phoenix,39
+Oxnard,39
+Tampa,39
+Burbank,39
+El Cajon,38
+Binghamton,38
+Enosburg Falls,38
+Mahomet,38
+Dearborn Heights,38
+Dowagiac,37
+East Islip,37
+Austin,37
+Germansville,37
+Jacksonville,37
+Windham,37
+Syracuse,37
+Islip Terrace,36
+Lake Odessa,36
+Mine Hill,36
+Rowley,36
+Coopersburg,36
+Little Neck,36
+Clayton,36
+Ticonderoga,36
+Ware,36
+Garrett,36
+Oklahoma City,36
+Middle Village,36
+Sayreville,35
+Cuttingsville,35
+Chevy Chase,34
+El Paso,34
+Tamworth,34
+New Hope,34
+Cohasset,34
+Commack,33
+Tiffin,33
+Bellingham,33
+Gibsonburg,33
+Spofford,33
+Sanford,32
+N Ferrisburgh,32
+Saint John,32
+Bountiful,32
+Dublin,32
+Bayamon,32
+Oaklyn,32
+Round Rock,32
+Woodsville,32
+Boise,32
+Salt Lake City,31
+Waterford Twp,31
+Townsend,31
+Nantucket,31
+Abingdon,31
+Fremont,31
+South Hadley,31
+Denville,31
+Essex Junction,31
+Hazleton,31
+Millbury,31
+Lanham,31
+Grove City,31
+Pennsburg,30
+Elwood,30
+Ellenville,30
+Amarillo,30
+Lyndhurst,30
+Highland Park,30
+West Hempstead,30
+Springfield Gardens,30
+West Wareham,29
+Louisville,29
+Sea Girt,29
+Norton,29
+Silver Lake,29
+Anderson,29
+Massapequa Park,29
+Roselle Park,28
+East Patchogue,28
+Hamilton Township,28
+Winsted,28
+Larwill,28
+Marshfield,28
+Belmar,28
+Clearwater,27
+Houlton,27
+Costa Mesa,27
+Mattawan,27
+Bowling Green,27
+Paris,27
+Honey Brook,27
+Center Conway,27
+Greenville,27
+Manassas,26
+Sheffield,26
+Ringwood,26
+Vauxhall,26
+Johnson City,26
+Oyster Bay,26
+Raleigh,26
+Spencer,26
+Wantagh,26
+Fraser,25
+Crestwood,25
+Kennesaw,25
+New Sharon,25
+North Easton,25
+Gap,25
+Fredericksburg,25
+Milwaukee,25
+Belle Mead,24
+Mechanicsville,24
+Fresno,24
+Mastic,24
+Greensboro,24
+Eugene,24
+Holbrook,24
+Round Lake,24
+Hammonton,23
+West Haven,23
+South Orange,23
+Rio Linda,23
+Eastampton,23
+Manville,23
+Celina,23
+Colorado Springs,23
+Bound Brook,23
+Tacoma,23
+South Berwick,23
+Lewisburg,22
+Saddle River,22
+Fort Worth,22
+Bellevue,22
+Bethel,22
+Amesbury,22
+Virginia Beach,22
+Wauconda,22
+Stevens,21
+Franklinville,21
+Ringoes,21
+Harleysville,21
+Swampscott,21
+Halfmoon,21
+Tupper Lake,21
+Plains,21
+Pittsburgh,21
+Middleville,21
+Dracut,21
+Fair Haven,21
+South Dartmouth,21
+North Grafton,21
+West Yarmouth,21
+Rehoboth,21
+Ridgewood ,20
+Nottawa,20
+Kennett Square,20
+Honolulu,20
+Hazel Park,20
+Port Jervis,20
+West Palm Beach,20
+Dover Foxcroft,20
+Fairview,20
+Cleveland,20
+Mokena,20
+Southwick,20
+Pulaski,20
+Waterboro,20
+Grand Prairie,19
+Otterbein,19
+West Coxsackie,19
+Eynon,19
+Silverdale,19
+Lynnwood,19
+Bakersfield,19
+Waxahachie,19
+Dalton,19
+Mount Morris,19
+East Wareham,19
+Sabattus,19
+Peru,18
+West Lafayette,18
+New Lenox,18
+Fort Lauderdale,18
+Egg Harbor City,18
+Henderson,18
+Fayetteville,18
+Schaumburg,18
+Florence,18
+East Bridgewater,18
+Port Reading,17
+San Diego,17
+Southington,17
+Phillipston,17
+American Fork,17
+Broken Arrow,17
+Chelsea,17
+Conyers,17
+Golden,17
+Ocala,17
+Williamston,17
+Muskegon,17
+North Andover,17
+O Fallon,17
+Amherst,17
+North Anson,17
+Sarasota,17
+Lagrange,16
+Stafford,16
+Beaverton,16
+Batesville,16
+Orange,16
+Churubusco,16
+Saddle Brook,16
+Moreno Valley,16
+Astoria,16
+Parker,15
+Telford,15
+North Ferrisburgh,15
+Prospect,15
+Loveland,15
+Cresco,15
+Atlanta,15
+Benton,15
+Grafton,15
+Millinocket,15
+Kenner,15
