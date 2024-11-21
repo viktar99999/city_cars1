@@ -1,0 +1,640 @@
+major_options,count
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Multi Zone Climate Control', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Comfort Package']",32055
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera']",13420
+['Steel Wheels'],6425
+['Alloy Wheels'],6391
+"['Steel Wheels', 'Bluetooth', 'Backup Camera']",6039
+"['Bluetooth', 'Backup Camera']",5863
+['Backup Camera'],3990
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",3959
+"['Alloy Wheels', 'Bluetooth']",3570
+"['Alloy Wheels', 'Backup Camera']",3361
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",3089
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",2747
+['Bluetooth'],2746
+"['Adaptive Cruise Control', 'Steel Wheels', 'Bluetooth', 'Backup Camera']",2530
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",2188
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",2117
+"['Alloy Wheels', 'Backup Camera', 'Android Auto', 'CarPlay']",2061
+"['Steel Wheels', 'Bluetooth']",2033
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",1851
+['Sunroof/Moonroof'],1777
+"['Sunroof/Moonroof', 'Alloy Wheels']",1540
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",1492
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",1478
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",1417
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",1399
+"['Backup Camera', 'Android Auto', 'CarPlay']",1294
+"['Steel Wheels', 'Backup Camera']",1293
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",1206
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",1154
+"['Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",1106
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera']",1097
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",1086
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",1063
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",1028
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",1012
+"['Navigation System', 'Alloy Wheels', 'Bluetooth']",1002
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera']",960
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Quick Order Package']",946
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",909
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",909
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",903
+"['Sunroof/Moonroof', 'Navigation System']",894
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",881
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",873
+"['Bluetooth', 'Backup Camera', 'Remote Start']",872
+['Quick Order Package'],863
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",846
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",837
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",805
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",802
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",792
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",768
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth']",766
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",757
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",751
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",741
+"['Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",740
+"['Android Auto', 'CarPlay']",740
+"['Leather Seats', 'Alloy Wheels']",738
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",734
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",724
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera']",687
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",686
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",675
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Heated Seats']",674
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",669
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",646
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",637
+"['Adaptive Cruise Control', 'Backup Camera']",635
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",626
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",614
+"['Alloy Wheels', 'Bluetooth', 'Heated Seats']",596
+['Heated Seats'],594
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",571
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",567
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",560
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",541
+"['Alloy Wheels', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",532
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",525
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",517
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",513
+"['Alloy Wheels', 'Heated Seats']",500
+"['Leather Seats', 'Bluetooth', 'Backup Camera', 'Remote Start']",497
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",496
+"['Adaptive Cruise Control', 'Bluetooth', 'Backup Camera']",492
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",482
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Heated Seats']",478
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",475
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Heated Seats']",473
+"['Sunroof/Moonroof', 'Bluetooth']",471
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",471
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",471
+"['Alloy Wheels', 'Steel Wheels']",466
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera']",464
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",449
+"['SE Package', 'Alloy Wheels', 'Backup Camera', 'Android Auto', 'CarPlay']",446
+"['Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",446
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",445
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",440
+['Navigation System'],435
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",434
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Remote Start']",418
+"['Bluetooth', 'Backup Camera', 'Quick Order Package']",417
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels']",406
+"['Alloy Wheels', 'Bluetooth', 'Android Auto', 'CarPlay']",401
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'CarPlay']",398
+"['Steel Wheels', 'Backup Camera', 'Android Auto', 'CarPlay']",396
+"['Alloy Wheels', 'Bluetooth', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay', 'Convenience Package']",396
+"['Alloy Wheels', 'Backup Camera', 'Heated Seats']",396
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",395
+['Blind Spot Monitoring'],390
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",386
+"['Sunroof/Moonroof', 'Backup Camera']",386
+"['Backup Camera', 'Heated Seats']",385
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",382
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",379
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera']",376
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",375
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",373
+"['Leather Seats', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",372
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",370
+"['Sunroof/Moonroof', 'Bluetooth', 'Backup Camera']",370
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera']",369
+"['Navigation System', 'Alloy Wheels']",359
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay', 'Bluetooth', 'Backup Camera', 'Remote Start']",359
+"['Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",357
+"['Sunroof/Moonroof', 'Backup Camera', 'Heated Seats']",356
+"['Leather Seats', 'Bluetooth', 'Backup Camera']",355
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",352
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay', 'Convenience Package']",351
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",351
+"['Backup Camera', 'Parking Sensors', 'Android Auto', 'CarPlay']",351
+"['Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",350
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Quick Order Package']",345
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",344
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",340
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",336
+"['Navigation System', 'Bluetooth']",336
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",334
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",331
+"['Navigation System', 'Bluetooth', 'Backup Camera']",329
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",328
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",327
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth']",324
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",324
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Convenience Package']",321
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera']",320
+"['Customer Preferred Package', 'Preferred Package', 'Quick Order Package']",319
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",318
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera']",318
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",318
+"['Navigation System', 'Alloy Wheels', 'Backup Camera']",316
+"['Alloy Wheels', 'Backup Camera', 'Android Auto', 'CarPlay', 'Convenience Package']",314
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",314
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",313
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",310
+"['Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors']",309
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",309
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Quick Order Package']",309
+"['Navigation System', 'Steel Wheels', 'Bluetooth', 'Backup Camera']",308
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth']",306
+"['Alloy Wheels', 'Steel Wheels', 'Bluetooth', 'Backup Camera']",303
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Quick Order Package']",303
+"['Alloy Wheels', 'Bluetooth', 'Quick Order Package']",303
+['Leather Seats'],303
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",301
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",299
+"['Leather Seats', 'Alloy Wheels', 'Heated Seats']",295
+"['Alloy Wheels', 'Third Row Seating']",291
+"['Sunroof/Moonroof', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",288
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats']",287
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",286
+"['Leather Seats', 'Sunroof/Moonroof', 'Bluetooth', 'Backup Camera']",283
+"['Bluetooth', 'Remote Start']",282
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",281
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors']",280
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",280
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels']",279
+"['Alloy Wheels', 'Bluetooth', 'Remote Start', 'Android Auto', 'CarPlay', 'Convenience Package']",278
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats']",276
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",274
+"['Alloy Wheels', 'Quick Order Package']",274
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",274
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera']",268
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",266
+"['Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Android Auto', 'CarPlay']",266
+"['Alloy Wheels', 'Bluetooth', 'Android Auto', 'CarPlay', 'Convenience Package']",265
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",264
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Technology Package', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",264
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Quick Order Package']",262
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",261
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",260
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Cargo Package']",259
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",257
+"['Adaptive Cruise Control', 'Backup Camera', 'Android Auto', 'CarPlay']",256
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Technology Package', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Heated Seats']",255
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Heated Seats']",255
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",253
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",252
+"['Sunroof/Moonroof', 'Quick Order Package']",251
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",250
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",246
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",245
+"['Backup Camera', 'Quick Order Package']",245
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",243
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",243
+"['Sunroof/Moonroof', 'Heated Seats']",241
+"['SE Package', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",241
+"['Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",240
+['Chrome Wheels'],240
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",237
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",236
+"['Alloy Wheels', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",233
+"['Blind Spot Monitoring', 'Android Auto', 'CarPlay']",233
+"['Sunroof/Moonroof', 'Blind Spot Monitoring']",232
+"['Backup Camera', 'Remote Start', 'Parking Sensors', 'Quick Order Package']",232
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'CarPlay']",231
+"['Navigation System', 'Steel Wheels', 'Bluetooth']",231
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",230
+"['Navigation System', 'Backup Camera']",230
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",230
+"['Alloy Wheels', 'Third Row Seating', 'Backup Camera']",230
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay', 'Convenience Package']",229
+['Third Row Seating'],228
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay', 'Bluetooth', 'Backup Camera', 'Remote Start']",227
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",227
+"['Adaptive Cruise Control', 'Bluetooth']",226
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth']",225
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",224
+"['Alloy Wheels', 'Steel Wheels', 'Bluetooth']",224
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Parking Sensors']",223
+"['SE Package', 'Alloy Wheels', 'Backup Camera']",219
+"['Sunroof/Moonroof', 'Power Package', 'Blind Spot Monitoring']",219
+"['Navigation System', 'Adaptive Cruise Control', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Cold Weather Package', 'CarPlay', 'Convenience Package']",219
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",219
+['Premium Wheels'],219
+"['Third Row Seating', 'Backup Camera']",219
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",219
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",218
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",216
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth']",214
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",214
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'Quick Order Package', 'CarPlay']",213
+"['Sunroof/Moonroof', 'Navigation System', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",213
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",213
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels']",212
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth']",211
+"['Backup Camera', 'Parking Sensors']",210
+"['Value Package', 'Customer Preferred Package', 'Preferred Package', 'Quick Order Package']",207
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",206
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Quick Order Package']",205
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",204
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",204
+"['Sunroof/Moonroof', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",204
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",204
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",202
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",202
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",202
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",201
+"['Alloy Wheels', 'Backup Camera', 'Quick Order Package']",201
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'Quick Order Package', 'CarPlay']",200
+"['Sunroof/Moonroof', 'Navigation System', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",199
+"['Alloy Wheels', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",198
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",198
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",197
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",197
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Remote Start']",197
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats']",196
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Heated Seats']",195
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Android Auto', 'CarPlay']",195
+"['Steel Wheels', 'Bluetooth', 'Quick Order Package']",195
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",194
+"['Alloy Wheels', 'Backup Camera', 'Remote Start']",194
+"['Sunroof/Moonroof', 'Navigation System', 'Backup Camera', 'Heated Seats']",192
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",191
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",190
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",189
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",189
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",187
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",187
+"['Adaptive Cruise Control', 'Steel Wheels', 'Backup Camera', 'CarPlay']",187
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",186
+"['Navigation System', 'Steel Wheels']",185
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",185
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",184
+"['Leather Seats', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",183
+"['Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",183
+"['Third Row Seating', 'Steel Wheels']",182
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Remote Start', 'Heated Seats']",182
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package']",181
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Adaptive Suspension', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",180
+"['Bluetooth', 'Steel Wheels', 'Backup Camera']",179
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",179
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors']",178
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",177
+"['Sunroof/Moonroof', 'Navigation System', 'Backup Camera']",176
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",175
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start']",175
+"['Sunroof/Moonroof', 'Bluetooth', 'Backup Camera', 'Heated Seats']",174
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",174
+"['Backup Camera', 'Blind Spot Monitoring']",174
+"['Third Row Seating', 'Bluetooth', 'Backup Camera']",173
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",172
+"['Bluetooth', 'Backup Camera', 'Heated Seats']",171
+"['Sunroof/Moonroof', 'Navigation System', 'Third Row Seating', 'Heated Seats', 'Android Auto', 'CarPlay']",171
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Quick Order Package']",171
+"['Leather Seats', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Remote Start']",170
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",169
+"['Leather Seats', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",168
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Remote Start']",168
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Android Auto', 'CarPlay']",168
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",167
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'CarPlay']",166
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",166
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",166
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera']",166
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth']",165
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package']",165
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",165
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",165
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",165
+"['Sunroof/Moonroof', 'Navigation System', 'Heated Seats']",164
+"['Steel Wheels', 'Quick Order Package']",163
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",161
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",161
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats']",160
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",159
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Cold Weather Package']",159
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",158
+"['Backup Camera', 'Remote Start']",158
+"['Remote Start', 'Quick Order Package']",157
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",157
+"['Alloy Wheels', 'Backup Camera', 'Convenience Package']",157
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",156
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package']",156
+"['Third Row Seating', 'Backup Camera', 'Parking Sensors']",156
+"['Leather Seats', 'Navigation System', 'Bluetooth', 'Backup Camera']",155
+"['Alloy Wheels', 'Steel Wheels', 'Bluetooth', 'Quick Order Package']",155
+"['Customer Preferred Package', 'Preferred Package']",154
+"['Remote Start', 'Heated Seats', 'Quick Order Package']",154
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",153
+"['Customer Preferred Package', 'Preferred Package', 'Remote Start', 'Quick Order Package']",153
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Remote Start']",153
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",153
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",151
+"['Sunroof/Moonroof', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",151
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",151
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats']",151
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors']",151
+['Parking Sensors'],151
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera']",150
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",150
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth']",149
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",148
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",148
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",148
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",148
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",147
+"['Navigation System', 'Steel Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",147
+"['Bluetooth', 'Remote Start', 'Heated Seats', 'Multi Zone Climate Control']",147
+"['Leather Seats', 'Sunroof/Moonroof', 'Bluetooth', 'Backup Camera', 'Remote Start']",146
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay', 'Convenience Package']",146
+"['Alloy Wheels', 'Remote Start']",146
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",145
+"['Leather Seats', 'Sunroof/Moonroof', 'Bluetooth']",145
+"['Appearance Package', 'Steel Wheels', 'Bluetooth', 'Backup Camera']",145
+"['Leather Seats', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",145
+"['SE Package', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",144
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Multi Zone Climate Control']",144
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Multi Zone Climate Control']",144
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'CarPlay']",143
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Multi Zone Climate Control']",143
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Technology Package', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",143
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors']",143
+"['Bluetooth', 'Multi Zone Climate Control']",143
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Quick Order Package']",143
+"['Third Row Seating', 'Backup Camera', 'Android Auto', 'CarPlay']",143
+"['Leather Seats', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors']",142
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Backup Camera']",142
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Heated Seats']",141
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Bluetooth', 'Backup Camera', 'Remote Start']",141
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",141
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",140
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package']",140
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",140
+"['Navigation System', 'Alloy Wheels', 'Backup Camera', 'Heated Seats']",139
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",139
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Heated Seats']",138
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",137
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Premium Package', 'Heated Seats']",136
+"['Sunroof/Moonroof', 'Bluetooth', 'Backup Camera', 'Remote Start']",136
+"['Bluetooth', 'Android Auto', 'CarPlay']",135
+"['Alloy Wheels', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'CarPlay']",135
+"['Leather Seats', 'Sunroof/Moonroof']",135
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera']",134
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",134
+"['Bluetooth', 'Quick Order Package']",133
+"['Steel Wheels', 'Blind Spot Monitoring', 'Parking Sensors']",133
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",132
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",132
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",131
+"['Adaptive Cruise Control', 'Bluetooth', 'Steel Wheels', 'Backup Camera']",131
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Android Auto', 'CarPlay']",131
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",129
+"['Leather Seats', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",129
+"['Alloy Wheels', 'Tow Package']",129
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",128
+"['Leather Seats', 'Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",127
+"['Steel Wheels', 'Tow Package']",127
+"['Driver Confidence Package', 'Alloy Wheels', 'Preferred Package', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay', 'Convenience Package']",127
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera']",126
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",126
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Convenience Package']",126
+"['Navigation System', 'Appearance Package', 'Bluetooth', 'Backup Camera', 'Remote Start', '302A Luxury Equipment Group', 'Android Auto', 'CarPlay']",126
+"['Leather Seats', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Quick Order Package']",126
+"['Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",125
+"['Alloy Wheels', 'Steel Wheels', 'Quick Order Package']",125
+"['Bluetooth', 'Backup Camera', 'Convenience Package']",125
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",125
+"['Leather Seats', 'Sunroof/Moonroof', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",124
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",124
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Android Auto', 'Quick Order Package', 'CarPlay']",124
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",124
+"['Bluetooth', 'Backup Camera', 'Parking Sensors']",123
+"['Backup Camera', 'Remote Start', 'Quick Order Package']",123
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",123
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'Quick Order Package']",122
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Remote Start']",122
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats']",122
+"['Sunroof/Moonroof', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",122
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",121
+"['Sunroof/Moonroof', 'Navigation System', 'Technology Package']",121
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Convenience Package']",121
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",121
+"['Driver Confidence Package', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",120
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package', 'Multi Zone Climate Control']",119
+"['Leather Seats', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Multi Zone Climate Control']",119
+"['Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",118
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Remote Start']",118
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Quick Order Package']",118
+"['Leather Seats', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",117
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",117
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",116
+"['Sunroof/Moonroof', 'Steel Wheels']",116
+"['Alloy Wheels', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Quick Order Package']",116
+"['Alloy Wheels', 'Adaptive Suspension', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",115
+"['Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Cold Weather Package', 'CarPlay', 'Convenience Package']",115
+"['Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",115
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",115
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",114
+"['Alloy Wheels', 'Backup Camera', 'CarPlay']",114
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera']",114
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start']",114
+"['Bluetooth', 'Remote Start', 'Heated Seats']",114
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",114
+"['Sunroof/Moonroof', 'Navigation System', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",113
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",113
+"['Third Row Seating', 'Bluetooth', 'Backup Camera', 'Parking Sensors']",113
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Chrome Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",113
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",112
+"['Technology Package', 'Remote Start', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",112
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",112
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats', 'Android Auto', 'CarPlay']",112
+"['Technology Package', 'Blind Spot Monitoring']",111
+"['Value Package', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Convenience Package']",111
+"['Alloy Wheels', 'Android Auto', 'CarPlay']",110
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats']",110
+"['Alloy Wheels', 'Bluetooth', 'Parking Sensors', 'Android Auto', 'CarPlay']",110
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Convenience Package']",110
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'CarPlay']",109
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",109
+"['Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors']",109
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Blind Spot Monitoring', 'Cargo Package', 'Heated Seats']",109
+"['Leather Seats', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",109
+"['Backup Camera', 'Parking Sensors', 'Heated Seats']",109
+"['Sunroof/Moonroof', 'Bluetooth', 'Heated Seats']",109
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'Android Auto', 'Quick Order Package', 'CarPlay']",108
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",108
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",108
+"['Adaptive Cruise Control', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",108
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",108
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Heated Seats']",107
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",107
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",107
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'CarPlay']",107
+"['Leather Seats', 'Sunroof/Moonroof', 'Preferred Equipment Package', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",107
+"['Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring']",106
+"['Alloy Wheels', 'Heated Seats', 'Android Auto', 'CarPlay']",106
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",106
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",105
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",105
+"['Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",104
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Quick Order Package']",104
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",104
+"['Leather Seats', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats']",104
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",103
+"['Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay']",103
+"['Navigation System', 'Adaptive Cruise Control', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",103
+"['Leather Seats', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors']",103
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",103
+"['Driver Confidence Package', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",102
+"['Sunroof/Moonroof', 'Navigation System', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",102
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",102
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Technology Package', 'Bluetooth', 'Backup Camera', 'Heated Seats']",101
+"['Alloy Wheels', 'Third Row Seating', 'Remote Start', 'Parking Sensors', 'Android Auto', 'CarPlay', 'Convenience Package']",101
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Quick Order Package']",101
+"['Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",100
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Technology Package', 'Third Row Seating', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",100
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",99
+"['Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",99
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Technology Package', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",99
+"['Alloy Wheels', 'Bluetooth', 'Remote Start']",99
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'CarPlay']",99
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",99
+"['Bluetooth', 'Heated Seats']",98
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Remote Start']",98
+"['Steel Wheels', 'Backup Camera', 'Quick Order Package']",98
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",98
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",98
+"['Blind Spot Monitoring', 'Heated Seats']",98
+"['Sunroof/Moonroof', 'Technology Package', 'Blind Spot Monitoring']",97
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Quick Order Package']",97
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Preferred Equipment Package', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",96
+"['Sunroof/Moonroof', 'Backup Camera', 'Android Auto', 'CarPlay']",96
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System']",96
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",96
+"['Navigation System', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Parking Sensors']",96
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats']",95
+"['Navigation System', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'CarPlay']",95
+"['Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",95
+"['Alloy Wheels', 'Remote Start', 'Heated Seats']",94
+"['Leather Seats', 'Navigation System', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors']",94
+"['Sunroof/Moonroof', 'Navigation System', 'Third Row Seating', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",94
+"['Chrome Wheels', 'Bluetooth', 'Backup Camera']",94
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",93
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",93
+"['Leather Seats', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats']",93
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Android Auto', 'CarPlay', 'Convenience Package']",93
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'Quick Order Package', 'CarPlay']",93
+"['Sunroof/Moonroof', 'Blind Spot Monitoring', 'Heated Seats']",93
+"['Leather Seats', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",92
+"['Alloy Wheels', 'Bluetooth', 'Remote Start', 'Heated Seats']",92
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",92
+"['Navigation System', 'Third Row Seating', 'Steel Wheels', 'Bluetooth', 'Backup Camera']",92
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",92
+"['Alloy Wheels', 'Backup Camera', 'Cargo Package', 'Heated Seats', 'Android Auto', 'CarPlay']",92
+"['Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors']",91
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Premium Package']",91
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",91
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",91
+"['Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",90
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",90
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",90
+"['Backup Camera', 'Tow Package']",90
+"['Alloy Wheels', 'Bluetooth', 'Remote Start', 'Parking Sensors', 'Android Auto', 'CarPlay', 'Convenience Package']",90
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",90
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Cold Weather Package']",90
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Heated Seats']",90
+"['Sunroof/Moonroof', 'Navigation System', 'Blind Spot Monitoring']",89
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Bluetooth', 'Remote Start', 'Heated Seats', 'Multi Zone Climate Control']",89
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",89
+"['Third Row Seating', 'Steel Wheels', 'Backup Camera']",89
+"['Alloy Wheels', 'Third Row Seating', 'Android Auto', 'CarPlay']",89
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Suspension', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",88
+"['Bluetooth', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",88
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats']",88
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",88
+"['Navigation System', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",88
+"['Alloy Wheels', 'Backup Camera', 'Cargo Package', 'Android Auto', 'CarPlay']",87
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Backup Camera']",87
+"['Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay']",87
+"['Alloy Wheels', 'Backup Camera', 'Parking Sensors']",87
+"['Sunroof/Moonroof', 'Backup Camera', 'Parking Sensors', 'Heated Seats']",87
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors', 'Heated Seats', 'Quick Order Package']",87
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",87
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Cargo Package', 'Heated Seats']",87
+"['Leather Seats', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",86
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth']",86
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",86
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay', 'Bluetooth', 'Backup Camera', 'Remote Start']",86
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",86
+"['Sunroof/Moonroof', 'Navigation System', 'Bluetooth', 'Heated Seats']",86
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring']",85
+"['Adaptive Cruise Control', 'Steel Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay']",85
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Quick Order Package']",85
+"['Alloy Wheels', 'Preferred Package', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Android Auto', 'CarPlay', 'Convenience Package']",85
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Multi Zone Climate Control']",85
+"['Third Row Seating', 'Quick Order Package']",85
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Backup Camera', 'Parking Sensors', 'Heated Seats']",85
+"['Navigation System', 'Adaptive Cruise Control', 'Backup Camera']",85
+"['Steel Wheels', 'Bluetooth', 'Remote Start']",85
+"['Alloy Wheels', 'Third Row Seating', 'Parking Sensors']",85
+"['Navigation System', 'Alloy Wheels', 'Bluetooth', 'Heated Seats']",84
+"['Bluetooth', 'Backup Camera', 'Parking Sensors', 'Quick Order Package']",84
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Android Auto', 'Quick Order Package', 'CarPlay']",84
+"['Alloy Wheels', 'Third Row Seating', 'Parking Sensors', 'Android Auto', 'CarPlay']",84
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'CarPlay']",84
+"['Backup Camera', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",84
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",84
+"['Leather Seats', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats']",84
+"['Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Cold Weather Package', 'Convenience Package']",84
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",84
+"['Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",83
+"['Bluetooth', 'Dual Rear Wheels', 'Remote Start']",83
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'Quick Order Package', 'CarPlay']",83
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Adaptive Suspension', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",83
+"['Steel Wheels', 'Bluetooth', 'Backup Camera', 'Android Auto', 'CarPlay', 'Convenience Package']",83
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",83
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Parking Sensors', 'Heated Seats']",83
+"['Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",82
+"['Leather Seats', 'Sunroof/Moonroof', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Heated Seats', 'Android Auto', 'CarPlay']",82
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Parking Sensors', 'Heated Seats']",82
+"['Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera']",82
+"['Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Parking Sensors']",82
+['Remote Start'],82
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Third Row Seating', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Heated Seats', 'CarPlay']",81
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",81
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",81
+"['Adaptive Cruise Control', 'Steel Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring']",81
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Heated Seats', 'CarPlay']",80
+"['Leather Seats', 'Sunroof/Moonroof', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Remote Start', 'Heated Seats']",80
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Premium Package', 'Heated Seats']",80
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Premium Package']",80
+"['Leather Seats', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats', 'Android Auto', 'CarPlay']",80
+"['Alloy Wheels', 'Bluetooth', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",80
+"['Adaptive Cruise Control', 'Alloy Wheels', 'Backup Camera', 'Heated Seats', 'Android Auto', 'CarPlay']",80
+"['Alloy Wheels', 'Premium Wheels']",79
+"['Steel Wheels', 'Backup Camera', 'Convenience Package']",79
+"['Leather Seats', 'Adaptive Cruise Control', 'Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",79
+"['Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Parking Sensors']",79
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Bluetooth', 'Backup Camera', 'Heated Seats']",79
+"['Alloy Wheels', 'Backup Camera', 'Remote Start', 'CarPlay']",79
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",79
+"['Sunroof/Moonroof', 'XLE Package', 'Alloy Wheels', 'Backup Camera', 'Android Auto', 'Cold Weather Package', 'CarPlay', 'Convenience Package']",79
+"['Sunroof/Moonroof', 'Alloy Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Heated Seats']",78
+"['Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Third Row Seating', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay']",78
+"['Steel Wheels', 'Backup Camera', 'Blind Spot Monitoring', 'Android Auto', 'CarPlay']",78
+"['Alloy Wheels', 'Bluetooth', 'Backup Camera', 'Remote Start', 'Blind Spot Monitoring', 'Parking Sensors', 'Heated Seats', 'Android Auto', 'CarPlay', 'Convenience Package']",78
+"['Leather Seats', 'Sunroof/Moonroof', 'Navigation System', 'Alloy Wheels', 'Bluetooth', 'Remote Start', 'Heated Seats']",78
